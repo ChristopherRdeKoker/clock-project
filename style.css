@@ -7,11 +7,13 @@
 
 body {
   /* background: linear-gradient(to right, rgba(5, 128, 223, 0.927), rgb(12, 195, 219)); */
-  background: linear-gradient(to right, rgba(5, 128, 223, 0.927), rgb(12, 195, 219));
+  background: linear-gradient(to right, rgba(231, 231, 5, 0.927), rgb(238, 142, 7));
 
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 80vh;
+  overflow: hidden;
 }
 
 .clock {
